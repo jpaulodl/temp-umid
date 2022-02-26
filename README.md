@@ -1,3 +1,21 @@
 # Medidor de temperatura e umidade
 
-Arduino // Temperatura e umidade
+COMPONENTES:
+
+1 ARDUINO UNO SMD
+
+1 PROTOBOARD
+
+1 RESISTOR 220 Ω
+
+1 RESISTOR 4.7K Ω
+
+1 DISPLAY OLED
+
+1 DHT11
+
+1 LED VERMELHO
+
+1 LED VERDE
+
+11 JUMPERS MACHO/MACHO
