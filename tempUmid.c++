@@ -82,6 +82,6 @@ void loop() {
     Serial.print("Temperatura: ");
     Serial.print(temperatura);
     Serial.println(" °C");
-    delay(500); //aguardar 1 segundo
+    delay(1000); //aguardar 1 segundo
   }
 }
